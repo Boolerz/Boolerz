@@ -1,0 +1,19 @@
+body{
+    border: 1px solid;
+    margin: 0;
+}
+#box1{
+    border: 6px double;
+    width: 70%px;
+    font-size: 18;
+    background: greenyellow;
+    padding: 40px;
+    margin: 50px;
+}
+
+#box2{
+    border: 5px solid;
+    width: 250px;
+    font-size: 22;
+    background: rgb(255, 200, 47);
+}
